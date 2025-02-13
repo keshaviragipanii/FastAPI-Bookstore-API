@@ -54,7 +54,7 @@ Follow these steps to set up and run the FastAPI Book Catalog:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/your-username/fastapi-book-catalog.git
+   git clone https://github.com/keshaviragipanii/FastAPI-Bookstore-API.git
    cd fastapi-book-catalog
    ```
 
@@ -67,7 +67,7 @@ Follow these steps to set up and run the FastAPI Book Catalog:
 3. **Run the FastAPI application**:
 
    ```sh
-   uvicorn main:app --reload
+   fastapi dev main.py
    ```
 
 4. **Access the API**:
